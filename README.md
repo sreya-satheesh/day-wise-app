@@ -4,6 +4,8 @@
 DayWise helps you create an optimized daily plan with AI.  
 Simply enter your tasks, deadlines, and priorities — and let DayWise do the rest.
 
+![screen-capture](https://github.com/user-attachments/assets/9b67c12f-6b27-4d22-abe3-0eaa2a74b862)
+
 ## Features
 
 - ⭐ **Schedule Input** — Add tasks, appointments, and reminders.  
