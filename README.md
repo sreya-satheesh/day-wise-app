@@ -39,11 +39,12 @@ Simply enter your tasks, deadlines, and priorities — and let DayWise do the re
     ```
 4. **Run in development mode**
    ```
-   npm start
+   npm run dev
    ```
 5. **Build for production**
    ```
    npm run build
+   npm run start
    ```
 
 ## License
